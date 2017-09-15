@@ -4,13 +4,11 @@ An application that calculate the total income, total expenses, and total save e
 #### Language used: Javascript
 #### Technical Skill: Html, CSS - Bootstrap, jquery-core, chance.js
 
-## Work with Google Chrome and FireFox browser, other browser havent test yet.
+## The data are stored in local storage of the web browser, everytime you revisit a website the app will automaticly fetch the latest data that you've entered. 
+![Alt text](/img/1.png?raw=true "Monthly Plan")
 
+## Add as many plan as you like.
+![Alt text](/img/2.png?raw=true "Added Plan")
 
-![Alt text](/img/1.png?raw=true "You can add as many plan as you want. When you come back to visit the app again, the app will auto fecth the latest plan that you have entered in.")
-
-
-![Alt text](/img/2.png?raw=true "Added two plans.")
-
-
-![Alt text](/img/3.png?raw=true "Delete a plan.")
+## Delete plan
+![Alt text](/img/3.png?raw=true "Deleted plan")
