@@ -10,7 +10,7 @@ An application that calculate the total income, total expenses, and total save e
 ![Alt text](/img/1.png?raw=true "You can add as many plan as you want. When you come back to visit the app again, the app will auto fecth the latest plan that you have entered in.")
 
 
-![Alt text](2.png?raw=true "Added two plans.")
+![Alt text](/img/2.png?raw=true "Added two plans.")
 
 
 ![Alt text](/img/3.png?raw=true "Delete a plan.")
